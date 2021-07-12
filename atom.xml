@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>熊之记事本</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>http://kuuhaku-w.github.io/icon.png</icon>
   <subtitle>kuuhaku blog</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://kuuhaku-w.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-07-12T04:05:48.712Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://kuuhaku-w.github.io/"/>
+  <updated>2021-07-12T06:19:21.554Z</updated>
+  <id>http://kuuhaku-w.github.io/</id>
   
   <author>
     <name>kuuhaku</name>
@@ -18,26 +18,26 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/07/09/hello-world/"/>
-    <id>http://example.com/2021/07/09/hello-world/</id>
+    <link href="http://kuuhaku-w.github.io/posts/HelloWorld.html"/>
+    <id>http://kuuhaku-w.github.io/posts/HelloWorld.html</id>
     <published>2021-07-09T14:29:53.153Z</published>
-    <updated>2021-07-12T04:05:48.712Z</updated>
+    <updated>2021-07-12T06:19:21.554Z</updated>
     
     
     <summary type="html">生成博客的时候就有这篇文章了</summary>
     
     
     
-    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://kuuhaku-w.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Web" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/Web/"/>
+    <category term="Web" scheme="http://kuuhaku-w.github.io/categories/%E6%95%99%E7%A8%8B/Web/"/>
     
     
-    <category term="HelloWorld" scheme="http://example.com/tags/HelloWorld/"/>
+    <category term="HelloWorld" scheme="http://kuuhaku-w.github.io/tags/HelloWorld/"/>
     
-    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://kuuhaku-w.github.io/tags/Hexo/"/>
     
-    <category term="搬运" scheme="http://example.com/tags/%E6%90%AC%E8%BF%90/"/>
+    <category term="搬运" scheme="http://kuuhaku-w.github.io/tags/%E6%90%AC%E8%BF%90/"/>
     
   </entry>
   
